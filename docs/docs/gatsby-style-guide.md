@@ -183,8 +183,8 @@ Here are some title examples:
 - Adding a 404 page
 - Querying data with GraphQL
 
-The folder name is used in the URL, so only use dashes -, numbers 0-9, and
-lowercase letters a-z for it.
+The folder name is used in the URL, so only use dashes `-`, numbers `0-9`, and
+lowercase letters `a-z` for it.
 
 Here are some folder name examples:
 
